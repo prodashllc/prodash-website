@@ -1,3 +1,3 @@
-# ProDash Supplier Trust Platform v5.0
+# ProDash Supplier Trust Platform v6.0
 
-Supplier Conversion Edition. Open index.html locally or upload all files to web hosting.
+Enterprise Supplier Trust Edition. Static website ready for GitHub Pages or standard hosting.

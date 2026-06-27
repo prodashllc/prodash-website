@@ -1,6 +1,8 @@
 # Changelog
 
-## v5.0 Supplier Conversion Edition
-- Added Supplier Resources, Purchasing Policies, Request Catalog, Application Checklist.
-- Removed unnatural emphasis on Wyoming LLC from primary messaging.
-- Updated content for supplier-facing B2B conversion.
+## v6.0 Enterprise Supplier Trust Edition
+- Added Become a Supplier page.
+- Added Supplier Application page.
+- Added Schema.org Organization metadata.
+- Improved CSS, mobile navigation, reveal animations and supplier-facing copy.
+- Maintained truthful language: no owned warehouse claims, no fake revenue, no fake partners.

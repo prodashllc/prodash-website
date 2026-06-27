@@ -1,3 +1,3 @@
 # Deployment
 
-Upload all files to the public web root of your hosting account or deploy to GitHub Pages / Cloudflare Pages. Keep relative paths unchanged.
+Upload all files and folders to the root of GitHub repository or hosting. Required folders: assets, css, js, docs. For GitHub Pages, use branch main and folder root.
