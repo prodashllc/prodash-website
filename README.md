@@ -1,15 +1,7 @@
-# ProDash LLC — Version 6.0 Stage 5
+# ProDash LLC Website — Version 7.0
 
-Enterprise Supplier Application System.
+Supplier Conversion Platform.
 
-## Main additions
-- Supplier Application Wizard
-- Supplier Application Checklist
-- Request Catalog Review process
-- Procurement contact center
-- Updated sales tax documentation language
+This release extends Version 6.0 Enterprise Supplier Trust Edition with conversion-focused supplier review paths, Supplier Approval Kit, Request Flow, and stronger procurement onboarding structure.
 
-Open `index.html` locally, then review `supplier-application.html`, `supplier-application-checklist.html`, `request-catalog.html`, and `contact.html`.
-
-
-Production Release: Version 6.0 Enterprise Supplier Trust Edition.
+Open `index.html` locally or deploy all files to GitHub Pages.
